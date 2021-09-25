@@ -1,7 +1,7 @@
-package br.maddytec.starwars.controller
+package br.com.maddytec.starwars.controller
 
-import br.maddytec.starwars.model.Planeta
-import br.maddytec.starwars.service.PlanetaService
+import br.com.maddytec.starwars.model.Planeta
+import br.com.maddytec.starwars.service.PlanetaService
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.*
 import org.springframework.web.server.ResponseStatusException

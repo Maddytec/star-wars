@@ -1,6 +1,6 @@
-package br.maddytec.starwars.service
+package br.com.maddytec.starwars.service
 
-import br.maddytec.starwars.model.Planeta
+import br.com.maddytec.starwars.model.Planeta
 import java.util.*
 
 interface PlanetaService {

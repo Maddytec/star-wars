@@ -1,6 +1,6 @@
-package br.maddytec.starwars.repository
+package br.com.maddytec.starwars.repository
 
-import br.maddytec.starwars.model.Planeta
+import br.com.maddytec.starwars.model.Planeta
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

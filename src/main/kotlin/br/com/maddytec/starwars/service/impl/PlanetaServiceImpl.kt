@@ -1,8 +1,8 @@
-package br.maddytec.starwars.service.impl
+package br.com.maddytec.starwars.service.impl
 
-import br.maddytec.starwars.model.Planeta
-import br.maddytec.starwars.repository.PlanetaRepository
-import br.maddytec.starwars.service.PlanetaService
+import br.com.maddytec.starwars.model.Planeta
+import br.com.maddytec.starwars.repository.PlanetaRepository
+import br.com.maddytec.starwars.service.PlanetaService
 import org.springframework.cache.annotation.CacheEvict
 import org.springframework.cache.annotation.Cacheable
 import org.springframework.http.HttpStatus

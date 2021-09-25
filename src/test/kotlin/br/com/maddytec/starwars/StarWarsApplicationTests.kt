@@ -1,4 +1,4 @@
-package br.maddytec.starwars
+package br.com.maddytec.starwars
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

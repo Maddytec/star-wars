@@ -1,4 +1,4 @@
-package br.maddytec.starwars.config
+package br.com.maddytec.starwars.config
 
 import org.springframework.cache.CacheManager
 import org.springframework.cache.annotation.EnableCaching
