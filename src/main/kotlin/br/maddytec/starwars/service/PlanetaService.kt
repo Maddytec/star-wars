@@ -13,5 +13,8 @@ interface PlanetaService {
 
     fun findById(id: Long): Optional<Planeta>
 
+    fun getPlanetaFiltro(nome: String, clima: String, terreno: String): List<Planeta>?
+
     fun delete(id: Long)
+
 }
