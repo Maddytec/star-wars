@@ -1,0 +1,10 @@
+version: '3.3'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: maddytec/star-wars:1.0
+    ports:
+      - 8080:8080
